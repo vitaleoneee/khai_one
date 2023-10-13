@@ -1,10 +1,10 @@
 #include <iostream>
-#include <ctime>
 #include <windows.h>
 #include <string>
 #include <fstream>
 #include <conio.h>
 #include <cstdlib>
+#include <ctime>
 
 using namespace std;
 
